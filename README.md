@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <h3 align="center">A passionate Full Stack Python developer,Software Developer from India</h3>
 
 
-- 👨‍💻 All of my projects are available at [https://ramyasri-04.github.io/Chennu-Ramya-Sri.github.io/](https://ramyasri-04.github.io/Chennu-Ramya-Sri.github.io/)
+- 👨‍💻 All of my projects are available at [https://github.com/RamyaSri-04?tab=repositories])
 
 - 💬 Ask me about **Data Science,Machine Learning and Software Developer**
 
