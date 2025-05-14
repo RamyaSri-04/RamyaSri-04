@@ -5,7 +5,6 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -15,15 +14,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Chennu Ramya Sri</h1>
-<h3 align="center">A passionate Data Analyst,Software Developer from India</h3>
+<h3 align="center">A passionate Full Stack Python developer,Software Developer from India</h3>
 
-- 🔭 I’m recently worked on [Credit Card Fraud Detection](https://github.com/RamyaSri-04/CreditCardFraud_Detection)
 
 - 👨‍💻 All of my projects are available at [https://ramyasri-04.github.io/Chennu-Ramya-Sri.github.io/](https://ramyasri-04.github.io/Chennu-Ramya-Sri.github.io/)
 
 - 💬 Ask me about **Data Science,Machine Learning and Software Developer**
 
-- 📫 How to reach me **chennusramyasri@gmail.com**
+- 📫 How to reach me **ramyasrichennus@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1Z7bTCui4dcTnuYnqxl58hzRw-N8qBRpp/view?usp=sharing](https://drive.google.com/file/d/1Z7bTCui4dcTnuYnqxl58hzRw-N8qBRpp/view?usp=sharing)
 
